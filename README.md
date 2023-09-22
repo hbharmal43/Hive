@@ -1,6 +1,5 @@
-# Community Aid Platform
 
-![Community Aid](data/HIVE.jpg)
+![HIVE](data/HIVE.jpg)
 
 **Inspiration**
 
